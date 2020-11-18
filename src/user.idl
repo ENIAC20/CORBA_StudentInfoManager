@@ -1,0 +1,8 @@
+module UserModule{
+    interface User{
+        boolean add(in string studentName,in string studentNum,in string studentAge,in string studentSex,in string department);
+        string query(in string studentNum);
+        boolean delete(in string studentNum);
+        string show();
+    };
+};
