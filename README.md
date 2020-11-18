@@ -1,0 +1,2 @@
+# CORBA_StudentInfoManager
+Java语言编写的基于CORBA的学生信息管理小系统
